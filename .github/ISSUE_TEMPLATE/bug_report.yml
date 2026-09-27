@@ -1,0 +1,25 @@
+name: Bug report
+description: Report a reproducible problem without sharing credentials.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: Do not include passwords, private keys, API keys, cookies, device codes, auth.json, or real server addresses.
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: Redacted error text
+    validations:
+      required: true

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+<title id="title">Codex SSH Helper for Windows</title><desc id="desc">Windows to Linux: SSH keys, remote setup and device authorization. A community project.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d2b"/><stop offset="1" stop-color="#163b40"/></linearGradient></defs>
+<rect width="1280" height="480" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="#2f575d" opacity=".45"><circle cx="1120" cy="150" r="230"/><circle cx="1120" cy="150" r="175"/><circle cx="1120" cy="150" r="120"/></g>
+<rect x="64" y="60" width="224" height="34" rx="17" fill="#234e50"/><text x="83" y="83" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2" fill="#93e6d2">WINDOWS → LINUX</text>
+<text x="64" y="179" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="62" fill="#f1f6f9">Codex SSH Helper</text>
+<text x="68" y="230" font-family="Segoe UI,Arial,sans-serif" font-size="27" fill="#b5ccd3">Your remote workspace, a few steps away.</text>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#c8e6e2"><text x="68" y="307">01 / SSH KEYS</text><text x="302" y="307">02 / REMOTE SETUP</text><text x="594" y="307">03 / SIGN IN</text></g>
+<path d="M68 335 H820" stroke="#37646a"/>
+<text x="68" y="409" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#8baeb6">LOCAL-FIRST · OPEN SOURCE · COMMUNITY PROJECT</text>
+<g transform="translate(955 235)"><rect width="220" height="152" rx="16" fill="#0d222a" stroke="#4c8b89" stroke-width="2"/><path d="M0 37 H220" stroke="#315c62"/><circle cx="20" cy="20" r="4" fill="#6aceba"/><circle cx="36" cy="20" r="4" fill="#52877f"/><circle cx="52" cy="20" r="4" fill="#315c62"/><path d="M36 66 L58 87 L36 108 M76 110 H126" fill="none" stroke="#84e4cf" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
